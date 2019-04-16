@@ -1,0 +1,9 @@
+
+/* Le rectangle*/
+.container
+{
+  width: 70px;
+  height: 10px;
+  background-color: red;
+  border: 2px solid black;
+}
